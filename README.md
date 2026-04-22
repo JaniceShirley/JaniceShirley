@@ -1,5 +1,5 @@
 # 💫 HI There:
-👯 I collaborate on  <br>👉 AI/ML • Computer Vision • Web Apps  <br>🤝 I need help with  <br>👉 Improving ML models & real-time apps  <br>🌱 Learning  <br>👉 ML • Deep Learning • Full Stack  <br>💬 Ask me  <br>👉 Python • OpenCV  <br>⚡ Fun fact  <br>👉 I love coffee ☕ and building real-world AI projects
+👯 I collaborate on  <br>👉 AI/ML • Computer Vision • Web Apps  <br><br>🤝 I need help with  <br>👉 Improving ML models & real-time apps  <br><br>🌱 Learning  <br>👉 ML • Deep Learning • Full Stack  <br><br>💬 Ask me  <br>👉 Python • OpenCV  <br><br>⚡ Fun fact  <br>👉 I love coffee ☕ and building real-world AI projects
 
 
 ## 🌐 Socials:
