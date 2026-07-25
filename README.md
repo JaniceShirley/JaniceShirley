@@ -1,4 +1,8 @@
+<p align="center">
 
+  <img src="https://raw.githubusercontent.com/JaniceShirley/JaniceShirley/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+
+</p>
 <div align="center">
 
 #  Hi, I'm Janice Shirley
