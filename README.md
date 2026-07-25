@@ -97,8 +97,11 @@ Git • GitHub • VS Code • Jupyter Notebook • Google Colab
 ## 🏆 Achievements
 
 🏅 IEEE Research Publication
+
 🛰️ ISRO Hackathon Participant
+
 💯 Solved 100+ LeetCode Problems
+
 🤖 Built multiple AI/ML projects in Computer Vision and LLMs
 
 ---
