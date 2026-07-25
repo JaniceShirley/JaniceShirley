@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Janice Shirley</h1>
+<h1 align="center">Hi , I'm Janice Shirley</h1>
 
 <h3 align="center">
 AI/ML Engineer | Computer Vision | Deep Learning | LLM Applications
@@ -10,30 +10,30 @@ Passionate about building AI-powered solutions that solve real-world problems.
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 🎓 B.Tech Computer Science Engineering (Honors in Quantum Computing)
 
-🤖 Passionate about
+Passionate about
 - Artificial Intelligence
 - Machine Learning
 - Computer Vision
 - Deep Learning
 - Large Language Models (LLMs)
 
-🌱 Currently Learning
+Currently Learning
 - Advanced DSA
 - Generative AI
 - Agentic AI
 - MLOps
 
-💡 Interested in building intelligent systems that bridge research and real-world applications.
+Interested in building intelligent systems that bridge research and real-world applications.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛰️ Lunar Landslide Detection (ISRO Hackathon)
+### Lunar Landslide Detection (ISRO Hackathon)
 
 - Built an object detection pipeline for identifying lunar landslides from satellite imagery.
 - Performed dataset annotation, preprocessing, and model training.
@@ -41,7 +41,7 @@ Passionate about building AI-powered solutions that solve real-world problems.
 
 ---
 
-### 🤟 Context-Aware Sign Language Communication Device
+### Context-Aware Sign Language Communication Device
 
 - Developed a real-time sign language recognition system.
 - Integrated MediaPipe and deep learning for gesture recognition.
@@ -50,7 +50,7 @@ Passionate about building AI-powered solutions that solve real-world problems.
 
 ---
 
-### 📚 AI Research CoPilot
+### AI Research CoPilot
 
 - Developed a Retrieval-Augmented Generation (RAG) system.
 - Supports multi-document question answering.
@@ -59,7 +59,7 @@ Passionate about building AI-powered solutions that solve real-world problems.
 
 ---
 
-### 🚗 Smart Parking System
+### Smart Parking System
 
 - Automatic License Plate Recognition using YOLO and OCR.
 - Dynamic parking price prediction using XGBoost.
@@ -79,17 +79,13 @@ Passionate about building AI-powered solutions that solve real-world problems.
 ### AI / ML
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ### Frameworks
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 
 ### Tools
@@ -101,11 +97,8 @@ Git • GitHub • VS Code • Jupyter Notebook • Google Colab
 ## 🏆 Achievements
 
 🏅 IEEE Research Publication
-
 🛰️ ISRO Hackathon Participant
-
 💯 Solved 100+ LeetCode Problems
-
 🤖 Built multiple AI/ML projects in Computer Vision and LLMs
 
 ---
