@@ -139,13 +139,6 @@ Git • GitHub • VS Code • Google Colab • Jupyter
 
 ---
 
-# Contribution Snake
-
-Add this GitHub Action later:
-
-https://github.com/Platane/snk
-
----
 
 # 📫 Connect With Me
 
