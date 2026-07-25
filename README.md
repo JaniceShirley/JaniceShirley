@@ -29,10 +29,6 @@ Currently Learning
 - MLOps
 - Agentic AI
 
-**100+ LeetCode Problems Solved**
-
-**IEEE Research Publication**
-
 ---
 
 # Coding Progress
