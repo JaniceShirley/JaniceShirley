@@ -1,24 +1,137 @@
-# 💫 HI There:
-👯 I collaborate on  <br>👉 AI/ML • Computer Vision • Web Apps  <br><br>🤝 I need help with  <br>👉 Improving ML models & real-time apps  <br><br>🌱 Learning  <br>👉 ML • Deep Learning • Full Stack  <br><br>💬 Ask me  <br>👉 Python • OpenCV  <br><br>⚡ Fun fact  <br>👉 I love coffee ☕ and building real-world AI projects
+<h1 align="center">Hi 👋, I'm Janice Shirley</h1>
 
+<h3 align="center">
+AI/ML Engineer | Computer Vision | Deep Learning | LLM Applications
+</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_janiceshirley_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Janice Shirley L) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shirleyjanice204@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=JaniceShirley&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=JaniceShirley&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=JaniceShirley&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JaniceShirley&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<p align="center">
+Passionate about building AI-powered solutions that solve real-world problems.
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=JaniceShirley&icon=5&color=0)](https://visitcount.itsvg.in)
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 👩‍💻 About Me
+
+🎓 B.Tech Computer Science Engineering (Honors in Quantum Computing)
+
+🤖 Passionate about
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Deep Learning
+- Large Language Models (LLMs)
+
+🌱 Currently Learning
+- Advanced DSA
+- Generative AI
+- Agentic AI
+- MLOps
+
+💡 Interested in building intelligent systems that bridge research and real-world applications.
+
+---
+
+## 🚀 Featured Projects
+
+### 🛰️ Lunar Landslide Detection (ISRO Hackathon)
+
+- Built an object detection pipeline for identifying lunar landslides from satellite imagery.
+- Performed dataset annotation, preprocessing, and model training.
+- Technologies: Python, YOLO, OpenCV
+
+---
+
+### 🤟 Context-Aware Sign Language Communication Device
+
+- Developed a real-time sign language recognition system.
+- Integrated MediaPipe and deep learning for gesture recognition.
+- Converted predictions into speech for seamless communication.
+- Technologies: PyTorch, MediaPipe, OpenCV
+
+---
+
+### 📚 AI Research CoPilot
+
+- Developed a Retrieval-Augmented Generation (RAG) system.
+- Supports multi-document question answering.
+- Includes semantic search and paper comparison.
+- Technologies: FastAPI, FAISS, LLMs
+
+---
+
+### 🚗 Smart Parking System
+
+- Automatic License Plate Recognition using YOLO and OCR.
+- Dynamic parking price prediction using XGBoost.
+- Technologies: YOLOv12, Tesseract OCR, XGBoost
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### AI / ML
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### Frameworks
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+
+### Tools
+
+Git • GitHub • VS Code • Jupyter Notebook • Google Colab
+
+---
+
+## 🏆 Achievements
+
+🏅 IEEE Research Publication
+
+🛰️ ISRO Hackathon Participant
+
+💯 Solved 100+ LeetCode Problems
+
+🤖 Built multiple AI/ML projects in Computer Vision and LLMs
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JaniceShirley&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaniceShirley&layout=compact&theme=tokyonight" height="170"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JaniceShirley&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/janiceshirley/)
+
+📧 shirleyjanice204@gmail.com
