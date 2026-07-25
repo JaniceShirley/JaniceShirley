@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Janice Shirley
+#  Hi, I'm Janice Shirley
 
 ### AI/ML Engineer • Computer Vision • Deep Learning • LLM Applications
 
@@ -17,41 +17,38 @@
 
 ---
 
-# 🚀 About Me
+# About Me
 
-🎓 B.Tech Computer Science Engineering (Honors in Quantum Computing)
+B.Tech Computer Science Engineering (Honors in Quantum Computing)
 
-🧠 Passionate about AI/ML, Computer Vision, Deep Learning and LLMs.
+Passionate about AI/ML, Computer Vision, Deep Learning and LLMs.
 
-🌱 Currently Learning
+Currently Learning
 - Advanced DSA
 - Generative AI
 - MLOps
 - Agentic AI
 
-💯 **100+ LeetCode Problems Solved**
+**100+ LeetCode Problems Solved**
 
-🛰️ **ISRO Hackathon Participant**
-
-📄 **IEEE Research Publication**
+**IEEE Research Publication**
 
 ---
 
-# 📊 Coding Progress
+# Coding Progress
 
 | Achievement | Status |
 |-------------|--------|
-| 💯 LeetCode | 100+ Problems Solved |
-| 🤖 AI Projects | 5+ |
-| 📄 Research | IEEE Publication |
-| 🛰️ Hackathon | ISRO |
-| 💻 GitHub | Active Open Source Portfolio |
+| LeetCode | 100+ Problems Solved |
+| AI Projects | 5+ |
+| Research | IEEE Publication |
+| GitHub | Active Open Source Portfolio |
 
 ---
 
 # 🚀 Featured Projects
 
-## 🛰️ Lunar Landslide Detection (ISRO Hackathon)
+## Lunar Landslide Detection (ISRO Hackathon)
 
 - Object detection using YOLO
 - Dataset annotation
@@ -61,7 +58,7 @@
 
 ---
 
-## 🤟 Context-Aware Sign Language Communication Device
+## Context-Aware Sign Language Communication Device
 
 - Real-time sign recognition
 - MediaPipe landmarks
@@ -72,7 +69,7 @@
 
 ---
 
-## 📚 AI Research CoPilot
+## AI Research CoPilot
 
 - RAG
 - Multi-PDF Question Answering
@@ -83,7 +80,7 @@
 
 ---
 
-## 🚗 Smart Parking System
+## Smart Parking System
 
 - License Plate Recognition
 - OCR
@@ -119,16 +116,15 @@ Git • GitHub • VS Code • Google Colab • Jupyter
 
 ---
 
-# 🏆 Achievements
+# Achievements
 
 - 🥇 IEEE Research Publication
-- 🛰️ ISRO Hackathon Participant
 - 💯 100+ LeetCode Problems Solved
 - 🤖 Multiple AI/ML Projects
 
 ---
 
-# 📈 GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
 
@@ -148,7 +144,7 @@ Git • GitHub • VS Code • Google Colab • Jupyter
 
 ---
 
-# 🐍 Contribution Snake
+# Contribution Snake
 
 Add this GitHub Action later:
 
