@@ -162,7 +162,7 @@ Currently Learning
 
 # 📫 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN_URL
+- LinkedIn: https://www.linkedin.com/in/janice-shirley-l-234525300/
 - LeetCode: https://leetcode.com/u/janiceshirley/
 - Email: shirleyjanice204@gmail.com
 
