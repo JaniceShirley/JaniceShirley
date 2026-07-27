@@ -149,14 +149,13 @@ Currently Learning
 - 🤖 Multiple AI/ML Projects
 
 ---
-## Coding Profiles
+
+# LeetCode
 
 <p align="center">
-
-<a href="https://leetcode.com/u/janiceshirley/">
-<img src="https://img.shields.io/badge/LeetCode-100%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
+  <a href="https://leetcode.com/u/janiceshirley/">
+    <img src="https://leetcard.jacoblin.cool/janiceshirley?theme=dark&font=Poppins&ext=contest" alt="LeetCode Stats"/>
+  </a>
 </p>
 
 ---
