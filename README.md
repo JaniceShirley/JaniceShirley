@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Computer+Vision+Enthusiast;Building+Real-World+AI+Projects;100%2B+LeetCode+Problems+Solved" />
 
 <p>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://www.linkedin.com/in/janice-shirley-l-234525300/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
 <a href="https://leetcode.com/u/janiceshirley/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="mailto:shirleyjanice204@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
