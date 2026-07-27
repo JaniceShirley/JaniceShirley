@@ -150,18 +150,6 @@ Currently Learning
 
 ---
 
-# GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JaniceShirley&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-</p>
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=JaniceShirley&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 
 # 📫 Connect With Me
 
