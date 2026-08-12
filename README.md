@@ -48,7 +48,7 @@ Currently Learning
 |  **AI Research CoPilot** | RAG-based research assistant with multi-PDF Q&A, semantic search, paper comparison, and source attribution. | `Python` `FastAPI` `FAISS` `LLMs` `RAG` |
 |  **Context-Aware Sign Language Communication Device** | Real-time sign language recognition using spatio-temporal learning, MediaPipe landmarks, and speech generation. | `PyTorch` `MediaPipe` `OpenCV` `LSTM` |
 |  **ParkEase – Smart Parking System** | Smart parking system with license plate recognition, OCR-based vehicle identification, and dynamic pricing prediction. | `YOLOv12` `Tesseract OCR` `XGBoost` `OpenCV` |
-| 🧠 **AI DSA Interview Coach** | AI-powered coding platform with Top 100 DSA problems, adaptive progressive hins, multiple solution approaches, code execution, AI challenges, and voice-based mock interviews. | `React` `Django` `PostgreSQL` `LLMs` `Monaco Editor` `Voice AI` |
+|  **AI DSA Interview Coach** | AI-powered coding platform with Top 100 DSA problems, adaptive progressive hins, multiple solution approaches, code execution, AI challenges, and voice-based mock interviews. | `React` `Django` `PostgreSQL` `LLMs` `Monaco Editor` `Voice AI` |
 
 # 🛠 Tech Stack
 
