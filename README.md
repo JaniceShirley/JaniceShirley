@@ -50,7 +50,7 @@ Currently Learning
 |  **ParkEase – Smart Parking System** | Smart parking system with license plate recognition, OCR-based vehicle identification, and dynamic pricing prediction. | `YOLOv12` `Tesseract OCR` `XGBoost` `OpenCV` |
 |  **AI DSA Interview Coach** | AI-powered coding platform with Top 100 DSA problems, adaptive progressive hins, multiple solution approaches, code execution, AI challenges, and voice-based mock interviews. | `React` `Django` `PostgreSQL` `LLMs` `Monaco Editor` `Voice AI` |
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 ### Languages
 
