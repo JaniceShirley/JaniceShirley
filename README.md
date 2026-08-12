@@ -41,49 +41,14 @@ Currently Learning
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-## Lunar Landslide Detection (ISRO Hackathon)
-
-- Object detection using YOLO
-- Dataset annotation
-- OpenCV image preprocessing
-
-**Tech:** `Python` `YOLO` `OpenCV`
-
----
-
-## Context-Aware Sign Language Communication Device
-
-- Real-time sign recognition
-- MediaPipe landmarks
-- PyTorch model
-- Speech generation
-
-**Tech:** `PyTorch` `MediaPipe` `OpenCV`
-
----
-
-## AI Research CoPilot
-
-- RAG
-- Multi-PDF Question Answering
-- Semantic Search
-- Paper Comparison
-
-**Tech:** `FastAPI` `FAISS` `LLMs`
-
----
-
-## Smart Parking System
-
-- License Plate Recognition
-- OCR
-- Dynamic Pricing using XGBoost
-
-**Tech:** `YOLOv12` `Tesseract OCR` `XGBoost`
-
----
+| Project | What I Built | Tech Stack |
+|---|---|---|
+|  **AI Research CoPilot** | RAG-based research assistant with multi-PDF Q&A, semantic search, paper comparison, and source attribution. | `Python` `FastAPI` `FAISS` `LLMs` `RAG` |
+|  **Context-Aware Sign Language Communication Device** | Real-time sign language recognition using spatio-temporal learning, MediaPipe landmarks, and speech generation. | `PyTorch` `MediaPipe` `OpenCV` `LSTM` |
+|  **ParkEase – Smart Parking System** | Smart parking system with license plate recognition, OCR-based vehicle identification, and dynamic pricing prediction. | `YOLOv12` `Tesseract OCR` `XGBoost` `OpenCV` |
+| 🧠 **AI DSA Interview Coach** | AI-powered coding platform with Top 100 DSA problems, adaptive progressive hins, multiple solution approaches, code execution, AI challenges, and voice-based mock interviews. | `React` `Django` `PostgreSQL` `LLMs` `Monaco Editor` `Voice AI` |
 
 # 🛠 Tech Stack
 
