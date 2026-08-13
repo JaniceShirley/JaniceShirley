@@ -94,7 +94,6 @@ Currently Learning
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Monaco_Editor-007ACC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -129,17 +128,10 @@ Currently Learning
 <img src="https://img.shields.io/badge/Speech--to--Text-6366F1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Text--to--Speech-7C3AED?style=for-the-badge"/>
 </td>
-<td width="25%" valign="top">
 
-🌐 Engineering
-
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/API_Development-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Authentication-374151?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Sandboxed_Execution-4B5563?style=for-the-badge"/>
-</td>
 </tr>
 </table>
+
 # Achievements
 
 - 🥇 IEEE Research Publication
