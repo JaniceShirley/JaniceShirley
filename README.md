@@ -56,7 +56,7 @@ Currently Learning
 <tr>
 <td width="25%" valign="top">
 
-🤖 AI / ML & Computer Vision
+AI / ML & Computer Vision
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -68,7 +68,7 @@ Currently Learning
 </td>
 <td width="25%" valign="top">
 
-🧠 LLMs & Generative AI
+LLMs & Generative AI
 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
@@ -79,7 +79,7 @@ Currently Learning
 </td>
 <td width="25%" valign="top">
 
-⚙️ Backend & Databases
+Backend & Databases
 
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white"/>
@@ -90,7 +90,7 @@ Currently Learning
 </td>
 <td width="25%" valign="top">
 
-💻 Development & Tools
+Development & Tools
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
@@ -103,7 +103,7 @@ Currently Learning
 <tr>
 <td width="25%" valign="top">
 
-🐍 Languages
+Languages
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -111,7 +111,7 @@ Currently Learning
 </td>
 <td width="25%" valign="top">
 
-📊 Data & Scientific Computing
+Data & Scientific Computing
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -121,7 +121,7 @@ Currently Learning
 </td>
 <td width="25%" valign="top">
 
-🔧 AI Technologies
+AI Technologies
 
 <img src="https://img.shields.io/badge/Tesseract_OCR-4285F4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Code_Execution-374151?style=for-the-badge"/>
