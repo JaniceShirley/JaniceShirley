@@ -134,9 +134,9 @@ AI Technologies
 
 # Achievements
 
-- 🥇 IEEE Research Publication
-- 💯 100+ LeetCode Problems Solved
-- 🤖 Multiple AI/ML Projects
+- IEEE Research Publication
+- 100+ LeetCode Problems Solved
+- Multiple AI/ML Projects
 
 ---
 
