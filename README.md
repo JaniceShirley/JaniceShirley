@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Hi, I'm Janice Shirley
+#  Hi I'm Janice Shirley
 
 ### AI/ML Engineer • Computer Vision • Deep Learning • LLM Applications
 
