@@ -35,7 +35,7 @@ Currently Learning
 | Achievement | Status |
 |-------------|--------|
 | LeetCode | 100+ Problems Solved |
-| AI Projects | 5+ |
+| AI Projects | 10+ |
 | Research | IEEE Publication |
 | GitHub | Active Open Source Portfolio |
 
