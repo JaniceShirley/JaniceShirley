@@ -153,7 +153,7 @@ AI Technologies
 # 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/janice-shirley-l-234525300/
-- LeetCode: https://leetcode.com/u/janiceshirley/
+- LeetCode: https://leetcode.com/janiceshirley/
 - Email: shirleyjanice204@gmail.com
 
 ---
